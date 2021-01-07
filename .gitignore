@@ -7,3 +7,4 @@ include/
 lib/
 test/
 debug.log
+.travis.yml
